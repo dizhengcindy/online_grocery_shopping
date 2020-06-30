@@ -26,7 +26,7 @@ run "npm install react-router-dom" (may also need this)
 
 run "npm start"
 
-### `In the App`
+### `User Stories`
 
 Before login/ signup, you can see the "about us", "home", "login/signup" page, you can sort, filter and search the items. You can click on each item image to see the item details. 
 
