@@ -1,5 +1,8 @@
 
 
+## Demo
+https://not-so-fresh.herokuapp.com/
+
 ## README
 
 In the project directory, you can clone down the front end and back end  repo:
